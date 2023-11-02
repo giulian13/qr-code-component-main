@@ -1,0 +1,41 @@
+:root {
+  --bg-primary: hsl(0, 0%, 100%);
+  --bg-secondary: hsl(218, 44%, 22%);
+
+  --text-primary: hsl(218, 44%, 22%);
+  --text-secondary: hsl(212, 45%, 89%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/* Reset default properties */
+* {
+  box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+/* Styling */
+
+section .card {
+  background-color: green;
+}
+
+.mainFrame {
+  background-color: var(--bg-primary);
+
+  display: flex;
+}
