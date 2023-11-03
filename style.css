@@ -56,7 +56,7 @@ p {
   flex-direction: column;
 
   width: 335px;
-  height: 502px;
+  height: auto;
 
   padding: 15px;
   margin: 20px;
