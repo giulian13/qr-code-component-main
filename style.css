@@ -29,7 +29,7 @@ p {
 
 /* Styling */
 
-.main {
+main {
   font-family: "Outfit", sans-serif;
 
   background-color: var(--cl-ligthGrey);
@@ -41,7 +41,7 @@ p {
   height: 100vh;
 }
 
-.main img {
+main img {
   width: 100%;
 
   border-radius: 10px;
