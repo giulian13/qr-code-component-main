@@ -65,7 +65,7 @@ p {
 }
 
 .mainFrame p,
-h1 {
+h2 {
   padding: 10px;
 }
 
@@ -75,7 +75,7 @@ h1 {
   font-size: 15px;
 }
 
-.mainFrame h1 {
+.mainFrame h2 {
   color: var(--cl-darkBlue);
 }
 
