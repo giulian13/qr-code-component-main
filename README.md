@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/simple-and-stylish-qr-code-component-U6f7v9Ybtn)
-- Live Site URL: [Live site](https://fastidious-baklava-01a5f6.netlify.app/)
+- Live Site URL: [Live site](https://funky-qr-code-component.netlify.app/)
 
 ## My process
 
